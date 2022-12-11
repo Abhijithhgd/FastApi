@@ -237,3 +237,12 @@ except Exception as e:
 print(e)
 print("Error : {0}".format(e))
 sys.exit(-1)
+######  ################################################################################
+
+###
+
+### V1.0 07/24/2022  This program will call relevant procedures to prepare data for activation files
+
+###
+
+######  #####################################################################################
